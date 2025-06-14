@@ -57,3 +57,6 @@ on Cadence Software. Botom up design methodology is used. Transmission gate desi
 ![virtuoso-ckt.png](https://i.postimg.cc/Wbf7Ww2P/virtuoso-ckt.png)]
 ![virtuoso-sim-inc.png](https://i.postimg.cc/wBkyP9hs/virtuoso-sim-inc.png)
 
+## Team Members
+- [@godkar](https://github.com/Atharva-Godkar)
+- [@anish](https://github.com/KNIGHTAPG)
